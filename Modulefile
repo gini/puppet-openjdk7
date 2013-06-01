@@ -1,0 +1,8 @@
+name         'smarchive-openjdk7'
+version      '0.1.0'
+author       'Jochen Schalanda'
+license      'Apache 2.0'
+project_page 'https://github.com/smarchive/puppet-openjdk7'
+source       'https://github.com/smarchive/puppet-openjdk7'
+summary      'Puppet module for managing OpenJDK7'
+description  'This module installs and manages OpenJDK7. Check README.md for details.'
