@@ -6,7 +6,7 @@
 #
 # === Copyright
 #
-# Copyright 2012 smarchive GmbH
+# Copyright 2012, 2013 smarchive GmbH
 #
 class openjdk7::params {
   $os_jre_package = $::osfamily ? {
