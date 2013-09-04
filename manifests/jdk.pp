@@ -18,6 +18,9 @@ class openjdk7::jdk(
   $package = 'UNSET',
   $version = 'UNSET',
 ) {
+
+  if ($package == "UNSET" or $version == 'UNSET') { include openjdk7::params }
+
   $version_real = $version ? {
     'UNSET' => $::openjdk7::params::version,
     default => $version,
