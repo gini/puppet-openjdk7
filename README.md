@@ -26,6 +26,7 @@ The module has been tested on the following operating systems. Testing and patch
 
 * Fedora 17
 * Fedora 18
+* Ubuntu 12.04 LTS
 
 License
 -------
@@ -39,4 +40,4 @@ See http://www.apache.org/licenses/LICENSE-2.0.html for the full license text.
 Support
 -------
 
-Please log tickets and issues at our [project site](https://github.com/smarchive/puppet-openjdk7/issues).
+Please log tickets and issues at our [project site](https://github.com/gini/puppet-openjdk7/issues).
